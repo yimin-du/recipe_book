@@ -1,0 +1,34 @@
+body {
+	background-color: #D6D1B1 !important;
+}
+
+
+.container {
+	margin-top: 20px;
+	width: 60%;
+}
+
+.cell {
+	border: groove 1px;
+	border-color: #EDF2F4;
+	line-height: 100%;
+}
+
+.recipe_header {
+	text-align: center;
+	padding: 5px;
+}
+
+.btn {
+	margin: 5px;
+}
+
+
+Button {
+	text-align: center;
+
+}
+
+.recipe_detail {
+	margin-left: 20px;
+}
